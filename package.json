@@ -7,7 +7,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DigitalCareerInstitute/Node-process-sum-n-average",
+    "url": "git+https://github.com/DigitalCareerInstitute/Node-process-sum-n-average.git",
     "id": 218299181
-  }
+  },
+  "name": "process-sum-n-avg-opheliaxx",
+  "description": "Create a program that takes in an operation to perform (\"sum\" or \"avg\"), and a set of numbers as arguments. The program should print out the result of the calculation to the terminal.",
+  "bugs": {
+    "url": "https://github.com/DigitalCareerInstitute/Node-process-sum-n-average/issues"
+  },
+  "homepage": "https://github.com/DigitalCareerInstitute/Node-process-sum-n-average#readme",
+  "version": "1.0.0",
+  "main": "solution.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
